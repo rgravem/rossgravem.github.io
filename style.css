@@ -36,7 +36,13 @@ div {
 
 body{
     width:70%;
-    
+    float:left;
+}
+
+img{
+    position:relative;
+    padding-top:2.5px;
+    /*wanted to add a pic, but wasn't a great spot */
 }
 #summary{
     font-size:15px;
@@ -75,7 +81,7 @@ a:hover {
 	margin-top: 50px;
 	width: 10%;
 	height: 400px;
-	background-color: #B9D7D9;
+	background-color:;
 	margin-bottom: 10px;
 }
 
