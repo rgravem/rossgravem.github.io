@@ -39,11 +39,8 @@ body{
     float:left;
 }
 
-img{
-    position:relative;
-    padding-top:2.5px;
-    /*wanted to add a pic, but wasn't a great spot */
-}
+
+
 #summary{
     font-size:20px;
 }
