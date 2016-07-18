@@ -74,7 +74,7 @@ li {
     border-bottom:1px solid black;
 }
 
-.right p {
+main p {
 	margin-left: 5px;
 	margin-right: 5px;
 	margin-top: -10px;
@@ -99,7 +99,7 @@ a:hover {
 	margin-bottom: 10px;
 }
 
-.right {
+main {
 	position: relative;
 	float: right;
 	margin-top: 50px;
@@ -107,6 +107,7 @@ a:hover {
 	height: 950px;
 	background-color: #F4EBC3;
 	margin-bottom: 10px;
+	border-radius: 5px;
 }
 
 footer {
