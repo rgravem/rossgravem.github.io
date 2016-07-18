@@ -6,7 +6,7 @@ div {
 	border-radius: 5px;
 }
 
-#header {
+header {
 	z-index: 1;
 	position: fixed;
 	width: 60.3%;
