@@ -109,7 +109,7 @@ a:hover {
 	margin-bottom: 10px;
 }
 
-#footer {
+footer {
 	position: relative;
 	height: 50px;
 	background-color: black;
@@ -118,10 +118,10 @@ a:hover {
 	font-size: 14px;
 	text-align: center;
 	color: #ffffff;
-	clear:both;
+	border-radius: 5px;
 }
 
-#footer p {
+footer p {
 	position: relative;
 	padding-top: 15px;
 }
